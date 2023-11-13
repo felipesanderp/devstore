@@ -4,7 +4,7 @@ const nextConfig = {
     ignoreDuringBuilds: true,
   },
   typescript: {
-    ignoreBuildErros: true,
+    ignoreBuildErrors: true,
   },
   images: {
     domains: ['github.com'],
